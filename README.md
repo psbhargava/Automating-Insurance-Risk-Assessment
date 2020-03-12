@@ -1,2 +1,6 @@
 # Automating-Insurance-Risk-Assessment
 Involved in understanding P&amp;C (Insurance) domain for implementing Machine Learning/Deep Learning concepts with patient information and demographic details to predict the Risk of approving insurance and cost associated with it.
+
+
+Automating-Insurance-Risk-Assessment: Implementation of the risk assessment tools in the insurance industry assures the prediction of risk and limits it to the minimum in order to cut losses. There are two major types of risk: pure and speculative. The risk assessment process is called to bring balance to the company’s profitability and to avoid both these types.
+Solution: Risk assessment lies in identifying the risk quantification and the risk reasons. These are the basis for data analysis and calculations. The matrix model of the analysis is widely applied in this field. This model provides a systematic approach to risk information comparable in time. It is based on the Machine learning algorithms which detect and combine the data concerning individual risks which vary by nature, character, and effect. Then, the potential risk groups are assessed. Thus, the overall company’s risk is forecasted via prediction of the exposure group’s risks.
